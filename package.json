@@ -1,0 +1,16 @@
+{
+  "name": "qr-code-gernator",
+  "version": "1.0.0",
+  "description": "gernate link with a link an download in our local system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "qr-image": "^3.2.0"
+  }
+}
